@@ -1,4 +1,4 @@
-🖥️ Panel de Control de Usuario para SAMP
+# 🖥️ Panel de Control de Usuario para SA:MP
 PCU para MVRDA CITY ROLEPLAY, desarrollado con PHP, HTML, CSS y JavaScript. El panel incluye diferentes características como:
 
 🔐 Login: Página de inicio de sesión para acceder al panel.
