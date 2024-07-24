@@ -18,4 +18,9 @@ PCU para MVRDA CITY ROLEPLAY, desarrollado con PHP, HTML, CSS y JavaScript. El p
 Lista de miembros
 Opción para abandonar la banda
 
+![Banda](https://github.com/itsAndot/mcpanel/blob/main/screenshots/banda.png)
+
+🧰 Inventario: Muestra los objetos que tiene el usuario en su inventario.
+
+
 El panel es fácil de adaptar a otras gamemodes así como la creación de nuevos apartados, requiere conocimiento básico en PHP y HTML.
