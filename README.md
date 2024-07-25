@@ -30,6 +30,6 @@ Opción para abandonar la banda
 
 ![Barra](https://github.com/itsAndot/mcpanel/blob/main/screenshots/barrahk.png)
 
-![Acceso](https://github.com/itsAndot/mcpanel/blob/main/screenshots/acceso.png)
+![Acceso](https://github.com/itsAndot/mcpanel/blob/main/screenshots/accesohk.png)
 
 El panel es fácil de adaptar a otras gamemodes así como la creación de nuevos apartados, requiere conocimiento básico en PHP y HTML.
