@@ -22,5 +22,14 @@ Opción para abandonar la banda
 
 🧰 Inventario: Muestra los objetos que tiene el usuario en su inventario.
 
+🔍 Sistema de búsqueda de usuario: Muestra información sobre un usuario, estilo red social.
+
+![Buscar](https://github.com/itsAndot/mcpanel/blob/main/screenshots/buscar.png)
+
+🔧 Housekeeping/Panel administrativo: En caso de tener un rango Staff, aparece la opción para acceder a la zona administrativa. Requiere introducir una contraseña especial administrativa.
+
+![Barra](https://github.com/itsAndot/mcpanel/blob/main/screenshots/barrahk.png)
+
+![Acceso](https://github.com/itsAndot/mcpanel/blob/main/screenshots/acceso.png)
 
 El panel es fácil de adaptar a otras gamemodes así como la creación de nuevos apartados, requiere conocimiento básico en PHP y HTML.
