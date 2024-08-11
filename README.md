@@ -10,13 +10,18 @@ PCU para MVRDA CITY ROLEPLAY, desarrollado con PHP, HTML, CSS y JavaScript. El p
 ![Index](https://github.com/itsAndot/mcpanel/blob/main/screenshots/index.png)
 
 
-🆔 DNI del Personaje: Recreación del documento de identidad del personaje.
+🆔 DNI del Personaje: Recreación del documento de identidad del personaje. 
+- Se genera un ID único que sigue una lógica que identifica el documento.
+- Una foto del personaje según su skin.
+- Dependiendo del camino de vida elegido al registrarse en el servidor, la nacionalidad será diferente (Corporativo será de Liberty City, Callejero de Los Santos y Nómada de Vice City).
 
-![DNI](https://github.com/itsAndot/mcpanel/blob/main/screenshots/dni.png)
+Para poder obtener el documento, la primera vez se debe entrar al panel y presionar en "Solicitar cita". Una vez realizado esto, los usuarios accederán al servidor y se dirigirán al Ayuntamiento dónde podrán obtener su DNI (si no se ha solicitado una cita previamente en el PCU al llegar al Ayuntamiento no podrán obtenerlo), una vez obtenido ya aparecerá en el panel con todos sus datos (además de poder utilizarlo dentro del juego, obviamente).
+
+![DNI](https://github.com/itsAndot/mcpanel/blob/main/screenshots/dni2.png)
 
 👥 Información de la Banda: Muestra detalles sobre la banda a la que pertenece el usuario, incluyendo:
-Lista de miembros
-Opción para abandonar la banda
+- Lista de miembros
+- Opción para abandonar la banda
 
 ![Banda](https://github.com/itsAndot/mcpanel/blob/main/screenshots/banda.png)
 
