@@ -4,6 +4,7 @@ PCU para MVRDA CITY ROLEPLAY, desarrollado con PHP, HTML, CSS y JavaScript. El p
 🔐 Login: Página de inicio de sesión para acceder al panel. Con 2 estilos disponibles (viejo y nuevo):
 
 NUEVO (incluye varios personajes que va cambiando):
+
 ![Login](https://github.com/itsAndot/mcpanel/blob/main/screenshots/nuevoinicio.png)
 
 VIEJO:
