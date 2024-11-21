@@ -7,7 +7,7 @@ INICIO DE SESIÓN:
 
 ![Login](https://github.com/itsAndot/mcpanel/blob/main/screenshots/nuevoinicio.png)
 
-🏠 Página Principal: Muestra información detallada del personaje (Nivel, Dinero, Dinero Bancario, Propiedades, Horas Jugadas, Número de Teléfono, Nacionalidad, Veces Arrestado). Con 2 estilos disponibles:
+🏠 Página Principal: Muestra información detallada del personaje (Nivel, Dinero, Dinero Bancario, Propiedades, Horas Jugadas, Número de Teléfono, Nacionalidad, Veces Arrestado):
 
 DASHBOARD:
 
