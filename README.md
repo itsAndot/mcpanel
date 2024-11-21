@@ -3,13 +3,13 @@ Versión completa y moderna del PCU para MVRDA CITY ROLEPLAY, desarrollado con P
 
 🔐 Login: Página de inicio de sesión para acceder al panel:
 
-NUEVO (incluye varios personajes que va cambiando):
+INICIO DE SESIÓN:
 
 ![Login](https://github.com/itsAndot/mcpanel/blob/main/screenshots/nuevoinicio.png)
 
 🏠 Página Principal: Muestra información detallada del personaje (Nivel, Dinero, Dinero Bancario, Propiedades, Horas Jugadas, Número de Teléfono, Nacionalidad, Veces Arrestado). Con 2 estilos disponibles:
 
-NUEVO:
+DASHBOARD:
 
 ![Index](https://github.com/itsAndot/mcpanel/blob/main/screenshots/principalnuevo.png)
 
