@@ -1,24 +1,17 @@
 # 🖥️ Panel de Control de Usuario para SA:MP
-PCU para MVRDA CITY ROLEPLAY, desarrollado con PHP, HTML, CSS y JavaScript. El panel incluye diferentes características como:
+Versión completa y moderna del PCU para MVRDA CITY ROLEPLAY, desarrollado con PHP, HTML, CSS y JavaScript. El panel incluye diferentes características como:
 
-🔐 Login: Página de inicio de sesión para acceder al panel. Con 2 estilos disponibles (viejo y nuevo):
+🔐 Login: Página de inicio de sesión para acceder al panel:
 
 NUEVO (incluye varios personajes que va cambiando):
 
 ![Login](https://github.com/itsAndot/mcpanel/blob/main/screenshots/nuevoinicio.png)
-
-VIEJO:
-
-![Login](https://github.com/itsAndot/mcpanel/blob/main/screenshots/login.png)
 
 🏠 Página Principal: Muestra información detallada del personaje (Nivel, Dinero, Dinero Bancario, Propiedades, Horas Jugadas, Número de Teléfono, Nacionalidad, Veces Arrestado). Con 2 estilos disponibles:
 
 NUEVO:
 
 ![Index](https://github.com/itsAndot/mcpanel/blob/main/screenshots/principalnuevo.png)
-
-VIEJO:
-![Index](https://github.com/itsAndot/mcpanel/blob/main/screenshots/index.png)
 
 
 🆔 DNI del Personaje: Recreación del documento de identidad del personaje. 
