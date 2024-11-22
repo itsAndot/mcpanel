@@ -30,6 +30,7 @@ Para poder obtener el documento, la primera vez se debe entrar al panel y presio
 ![Banda](https://github.com/itsAndot/mcpanel/blob/main/screenshots/banda.png)
 
 🧰 Inventario: Muestra los objetos que tiene el usuario en su inventario.
+![Inventario](https://github.com/itsAndot/mcpanel/blob/main/screenshots/inventario.png)
 
 🔍 Sistema de búsqueda de usuario: Muestra información sobre un usuario, estilo red social.
 
